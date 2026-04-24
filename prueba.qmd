@@ -1,0 +1,23 @@
+---
+title: "Economía para Todos"
+subtitle: "Universidad Andrés Bello"
+author: "Semana 1: Los Tres Principios"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+---
+
+## Primera slide
+
+Este es contenido de prueba.
+
+- Punto 1
+- Punto 2
+- Punto 3
+
+## Segunda slide
+
+Una ecuación de ejemplo:
+
+$$Y = C + I + G + NX$$
